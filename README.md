@@ -32,10 +32,6 @@ This AR application serves as a prototype, showcasing the potential for a fully 
 * Open the Holographic app on Hololens
 * Adding holographic ip address on Unity: Mixed Reality > Remoting > Holographic Remoting for Play Mode > Add ip > Enable > Click Play
 
-## Help
-
-Please restart the computer!
-
 ## Authors
 
 Contributors names and contact info
