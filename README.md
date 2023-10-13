@@ -4,6 +4,7 @@ Team Potential
 Project Future 2.0: IEEE ProjectVoice Hackathon 2023
 
 ## Video demonstration
+*turn on sound!*
 
 https://github.com/omarkhan03/ProjectVoice/assets/106503860/00115b44-7828-46c0-b7f9-61474ec76d11
 
